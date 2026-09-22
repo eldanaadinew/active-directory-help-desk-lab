@@ -40,32 +40,13 @@ The original local virtual machines were retired after the lab was completed to 
 
 ## Help Desk Scenarios
 
-The lab includes ticket-style documentation for:
-
-- Forgotten passwords
-- Locked user accounts
-- Disabled accounts
-- Security-group access requests
-- Account-lockout policy configuration
-- Domain login and connectivity troubleshooting
+The lab includes ticket-style documentation for forgotten passwords, locked and disabled accounts, security-group access requests, account-lockout policy configuration, and domain login/connectivity troubleshooting.
 
 See [Help Desk Scenarios](docs/help-desk-scenarios.md) and [Troubleshooting Log](docs/troubleshooting-log.md).
 
 ## Troubleshooting Approach
 
-For each issue, I:
-
-1. Identified the symptoms and expected result.
-2. Checked account status, credentials, group membership, DNS/connectivity, and relevant policies.
-3. Applied the appropriate correction in the lab.
-4. Tested the result after the change.
-5. Documented the action, result, and lessons learned.
-
-## Project Evidence
-
-The original lab environment was completed locally and later retired to reclaim limited SSD capacity for schoolwork. The repository therefore focuses on written technical documentation rather than retaining large virtual-machine files.
-
-Screenshots are not required to reproduce the documented workflow. Any screenshots added later will be reviewed for passwords, account details, or other sensitive information before publication.
+For each issue, I identified the symptoms and expected result, checked the relevant account, group, policy, DNS, and connectivity information, applied the appropriate correction, tested the result, and documented the resolution.
 
 ## What I Learned
 
@@ -77,12 +58,10 @@ This project strengthened my understanding of how identity, authentication, DNS,
 active-directory-help-desk-lab/
 ├── README.md
 ├── SECURITY.md
-├── docs/
-│   ├── help-desk-scenarios.md
-│   ├── lab-overview.md
-│   └── troubleshooting-log.md
-└── screenshots/
-    └── README.md
+└── docs/
+    ├── help-desk-scenarios.md
+    ├── lab-overview.md
+    └── troubleshooting-log.md
 ```
 
 ## Note

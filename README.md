@@ -1,15 +1,17 @@
 # Active Directory Help Desk Lab
 
+## Project coordination and resume alignment
+
+I planned this multi-phase Windows Server 2022 and Active Directory home lab with requirements, dependencies, and checkpoints in Microsoft Project and tracked implementation and testing tasks in Asana. My plan included five organizational units (IT, Human Resources, Sales, Finance, Workstations) and four user accounts. I validated group membership and Windows 11 domain authentication.
+
+Across **five troubleshooting sessions**, I resolved **seven issues**. This is distinct from the five ticket-style troubleshooting *scenarios* described in the lab documentation; a session/scenario can involve more than one issue. These counts reflect my project records and are not independently demonstrated by the preserved repository files. The environment was a home lab, not a production deployment.
+
 ## Project coordination and delivery
 
 **Implementation milestones:** Configured a Windows Server domain controller, Active Directory accounts and groups, and Windows 11 authentication.
 
 **Issue tracking and validation:** Documented five troubleshooting scenarios, corrective actions, and verification steps. This was a home lab, not a production deployment.
 
-
-## Project coordination and delivery
-
-Windows domain setup, access configuration, client login validation, and five documented troubleshooting scenarios. Demonstrates phased implementation, issue documentation, and verification in a home lab.
 
 ## Project Summary
 
@@ -78,7 +80,3 @@ active-directory-help-desk-lab/
 ## Note
 
 Virtual-machine images, Windows installation media, passwords, and other sensitive or licensed files are intentionally not included in this repository.
-
-## Resume project-management context (self-reported)
-
-Eldana describes planning the implementation in Microsoft Project and tracking tasks in Asana, with five organizational units (IT, Human Resources, Sales, Finance, Workstations), four planned user accounts, and Windows 11 authentication validation. The resume reports seven issues addressed across five troubleshooting sessions. The repository documents five troubleshooting *scenarios*; that count is not itself evidence of seven distinct resolved issues. These additional figures and tool usages are self-reported, not independently verified by repository artifacts.

@@ -2,6 +2,13 @@
 
 ## Project coordination and delivery
 
+**Implementation milestones:** Configured a Windows Server domain controller, Active Directory accounts and groups, and Windows 11 authentication.
+
+**Issue tracking and validation:** Documented five troubleshooting scenarios, corrective actions, and verification steps. This was a home lab, not a production deployment.
+
+
+## Project coordination and delivery
+
 Windows domain setup, access configuration, client login validation, and five documented troubleshooting scenarios. Demonstrates phased implementation, issue documentation, and verification in a home lab.
 
 ## Project Summary

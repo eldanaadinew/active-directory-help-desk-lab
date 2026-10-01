@@ -78,3 +78,7 @@ active-directory-help-desk-lab/
 ## Note
 
 Virtual-machine images, Windows installation media, passwords, and other sensitive or licensed files are intentionally not included in this repository.
+
+## Resume project-management context (self-reported)
+
+Eldana describes planning the implementation in Microsoft Project and tracking tasks in Asana, with five organizational units (IT, Human Resources, Sales, Finance, Workstations), four planned user accounts, and Windows 11 authentication validation. The resume reports seven issues addressed across five troubleshooting sessions. The repository documents five troubleshooting *scenarios*; that count is not itself evidence of seven distinct resolved issues. These additional figures and tool usages are self-reported, not independently verified by repository artifacts.

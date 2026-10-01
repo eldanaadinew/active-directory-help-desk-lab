@@ -1,5 +1,9 @@
 # Active Directory Help Desk Lab
 
+## Project coordination and delivery
+
+Windows domain setup, access configuration, client login validation, and five documented troubleshooting scenarios. Demonstrates phased implementation, issue documentation, and verification in a home lab.
+
 ## Project Summary
 
 This home lab documents a completed Windows domain and Tier 1 support environment built with Windows Server 2022, Active Directory Domain Services (AD DS), DNS, Group Policy, Windows 11, and Oracle VirtualBox. The lab was used to practice account administration, access troubleshooting, security-group management, domain authentication, and technical documentation.

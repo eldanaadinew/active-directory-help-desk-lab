@@ -5,6 +5,7 @@
 The Windows Server 2022 and Active Directory lab followed a phased implementation plan covering requirements, domain setup, access configuration, validation, and troubleshooting. Microsoft Project was used for planning dependencies and checkpoints, and Asana was used for task and issue tracking.
 
 The plan included five organizational units—IT, Human Resources, Sales, Finance, and Workstations—and four user accounts. Windows 11 domain authentication and group membership were tested. Across five troubleshooting sessions, seven issues were resolved. The five documented troubleshooting scenarios below describe categories of tests rather than a one-to-one count of resolved issues.
+
 ## Project Summary
 
 This home lab documents a completed Windows domain and Tier 1 support environment built with Windows Server 2022, Active Directory Domain Services (AD DS), DNS, Group Policy, Windows 11, and Oracle VirtualBox. The lab was used to practice account administration, access troubleshooting, security-group management, domain authentication, and technical documentation.

@@ -1,10 +1,18 @@
-# Active Directory Help Desk Lab
+# User Access and Account Management Implementation
 
-## Implementation workflow and testing
+**Academic technical implementation | Grade: A**
 
-The Windows Server 2022 and Active Directory lab followed a phased implementation plan covering requirements, domain setup, access configuration, validation, and troubleshooting. Microsoft Project was used for planning dependencies and checkpoints, and Asana was used for task and issue tracking.
+I planned and documented a phased Windows Server 2022 and Active Directory implementation, from requirements and dependencies through configuration, validation, and troubleshooting. I used Microsoft Project for dependencies and checkpoints and Asana for task and issue tracking.
 
-The plan included five organizational units—IT, Human Resources, Sales, Finance, and Workstations—and four user accounts. Windows 11 domain authentication and group membership were tested. Across five troubleshooting sessions, seven issues were resolved. The five documented troubleshooting scenarios below describe categories of tests rather than a one-to-one count of resolved issues.
+**Outcome:** Configured and tested an educational Windows domain with five organizational units and a Windows 11 test client. Resolved seven issues across five troubleshooting sessions. Earned an A.
+
+**My role:** Individual implementation planning, technical configuration, issue tracking, testing, and documentation. This was an academic lab, not a production deployment.
+
+**Clarification:** Five documented support scenarios represent categories of work, not seven separate tickets.
+
+---
+
+## Technical Documentation
 
 ## Project Summary
 

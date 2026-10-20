@@ -1,12 +1,12 @@
 # User Access and Account Management Implementation
 
-**Academic technical implementation | Grade: A**
+**Technical implementation | Grade: A**
 
 I planned and documented a phased Windows Server 2022 and Active Directory implementation, from requirements and dependencies through configuration, validation, and troubleshooting. I used Microsoft Project for dependencies and checkpoints and Asana for task and issue tracking.
 
 **Outcome:** Configured and tested an educational Windows domain with five organizational units and a Windows 11 test client. Resolved seven issues across five troubleshooting sessions. Earned an A.
 
-**My role:** Individual implementation planning, technical configuration, issue tracking, testing, and documentation. This was an academic lab, not a production deployment.
+**My role:** Individual implementation planning, technical configuration, issue tracking, testing, and documentation. The work involved individual implementation, testing, and documentation.
 
 **Clarification:** Five documented support scenarios represent categories of work, not seven separate tickets.
 
